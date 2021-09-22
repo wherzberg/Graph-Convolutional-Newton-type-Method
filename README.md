@@ -25,6 +25,5 @@ This file can be run to test a series of previously trained and saved networks. 
 
 Note the following package versions were used when creating and testing these files
 
-Python (3.8.8)
-
-PyTorch (1.7.1)
+* Python (3.8.8)
+* PyTorch (1.7.1)
