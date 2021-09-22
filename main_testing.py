@@ -19,9 +19,6 @@ import main_functions as main
 
 
 
-
-
-
 #========================#
 # Predict using new data #
 #========================#
