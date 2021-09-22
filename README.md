@@ -20,3 +20,9 @@ This file can be run to train a series of networks. The trained network weights 
 This file can be run to test a series of previously trained and saved networks. The saved networks are loaded in and applied to new data not used during training. The new test data is saved in a subfolder called 'data'.
 
 ---
+
+**Package Versions**
+
+Note the following package versions were used when creating and testing these files
+Python (3.8.8)
+PyTorch (1.7.1)
