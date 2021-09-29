@@ -33,7 +33,7 @@ if torch.cuda.is_available():
 print("Using device:", device)
 
 # How many iterations of GCNM
-iterations = 2
+iterations = 10
 
 # What does the graph structure look like?
 N_samples = 50
@@ -48,7 +48,7 @@ model_name = 'sample_models'
 split = 0.8
 learning_rate = 0.002
 batch_size = 10
-max_epochs = 10
+max_epochs = 10000
 patience = 200
 
 
